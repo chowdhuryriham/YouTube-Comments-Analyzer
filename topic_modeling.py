@@ -2,7 +2,6 @@ from gensim import corpora, models
 
 def preprocess_text(comment):
     # Perform text preprocessing steps such as tokenization, lowercasing, removing stop words, etc.
-    # Example:
     processed_comment = [token.lower() for token in comment.split() if token.isalpha()]
     return processed_comment
 
