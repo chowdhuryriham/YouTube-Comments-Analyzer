@@ -1,7 +1,7 @@
 # YouTube Comments Analysis
 
 ## Purpose
-This project aims to analyze comments from a YouTube video to gain insights into viewer sentiment, identify common topics of discussion, and provide valuable feedback for content creators. The analysis includes sentiment analysis of comments, topic modeling to identify prevalent themes, and saving the results to an Excel file for further examination.
+This project aims to analyze comments from a YouTube video to gain insights into viewer sentiment, identify common topics of discussion, and provide valuable feedback for content creators. The analysis includes sentiment analysis of comments, topic modeling to identify prevalent themes, and saving the raw sentiment analysis results to an Excel file for further examination.
 
 ## How to Run
 To run the analysis, follow these steps:
